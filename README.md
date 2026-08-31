@@ -1,4 +1,3 @@
-
 # Why Manual Rank Tracking Is Killing Your SEO Strategy (And How to Fix It)
 
 ## Introduction: The Hidden Bottleneck in Modern SEO
