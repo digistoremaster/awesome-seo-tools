@@ -1,5 +1,6 @@
 # Why Manual Rank Tracking Is Killing Your SEO Strategy (And How to Fix It)
 
+
 ## Introduction: The Hidden Bottleneck in Modern SEO
 
 If you have been managing websites, client portfolios, or affiliate campaigns for any length of time, you know that Search Engine Optimization (SEO) is rarely a straight line. Algorithms change without warning, competitors launch sudden content pushes, and search engine results pages (SERPs) shift under your feet overnight.
